@@ -16,8 +16,14 @@ header {
 
 h1 {
     font-size: 40px;
+    display: flex;
+    justify-content: center;
+    color: #c52020;
 }
 
 p {
     font-size: 20px;
+    display: flex;
+    justify-content: center;
+    color: beige;
 }
